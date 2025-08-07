@@ -32,3 +32,9 @@ This will generate structured outputs in multiple formats:
 - CSV (`scholar_results.csv`)
 - BibTeX (`scholar_results.bib`)
 
+## License
+
+This repository contains both **code** and **data**, which are licensed separately:
+
+- **Code:** Licensed under the [MIT License](LICENSE).  
+- **Dataset:** Licensed under the CDLA-Permissive-2.0 license.  
