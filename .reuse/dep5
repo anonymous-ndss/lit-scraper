@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: lit-scraper
+Source: https://github.com/anonymous-ndss/lit-scraper
+
+Files: *
+Copyright: 2025 anonymous-ndss
+License: MIT
+
+Files: results/*
+Copyright: 2025 anonymous-ndss
+License: CDLA-Permissive-2.0
